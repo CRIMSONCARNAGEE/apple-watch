@@ -1,3 +1,8 @@
+:root {
+--primary-color: #ea625c;
+--text-color: #333;
+}
+
 /* GLOBAL */
 html {
   box-sizing: border-box;
@@ -18,9 +23,9 @@ body {
   margin: 0;
   font-size: 16px;
   line-height: 1.5;
-  font-family: "Arial", "sans-serif";
+  font-family: "Roboto","Arial", "sans-serif";
   background-color: #fff;
-  color: #222;
+  color: var(--text-color);
 }
 img {
   max-width: 100%;
@@ -29,7 +34,7 @@ img {
 
 /* CONTAINER */
 .container {
-  max-width: 1200;
+  max-width: 1100;
   padding-left: 50px;
   padding-right: 50px;
   margin-left: auto;
