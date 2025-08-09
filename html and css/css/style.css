@@ -45,7 +45,7 @@ img {
   margin-right: auto;
 }
 
-/* button */
+/* Button */
 .button {
   display: inline-block;
   min-width: 260px ;
@@ -96,7 +96,7 @@ img {
 }
 
 
-/*  site-header*/
+/*  Site Header*/
 .site-header {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -164,7 +164,7 @@ img {
   background-size: 565px;
 }
 
-/* lead cta */
+/* Lead Cta */
 .lead-cta {
   width: 100%;
   max-width: 490px;
@@ -191,7 +191,7 @@ img {
   border-color: #fff;
   color: #fff;
 }
-/* features */
+/* Features */
 .features {
   padding-top: 70px;
   padding-bottom: 70px;
@@ -260,7 +260,7 @@ img {
   object-fit: cover;
 }
 
-/* runners */
+/* Runners */
 .runners {
   padding-top: 240px;
   padding-bottom: 240px;
